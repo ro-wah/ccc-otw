@@ -1,0 +1,6 @@
+# Coates
+DOMAIN-SUFFIX,switchboardcms.com
+DOMAIN-SUFFIX,coates.io
+DST-PORT,22
+DST-PORT,80
+DST-PORT,443
