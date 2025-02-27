@@ -1,6 +1,6 @@
 # 内容：OpenAi AIGC
 # 数量：16条
-#GEOSITE,category-ai-chat-!cn
+
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
