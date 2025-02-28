@@ -1,7 +1,8 @@
 # Coates
 
+DST-PORT,22
 DOMAIN-KEYWORD,switchboardcms
 DOMAIN-KEYWORD,coates
 DOMAIN-SUFFIX,switchboardcms.com
 DOMAIN-SUFFIX,coates.io
-DST-PORT,22
+DOMAIN-SUFFIX,timecamp.com
