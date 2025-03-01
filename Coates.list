@@ -8,6 +8,3 @@ DOMAIN-SUFFIX,coates.io
 DOMAIN-SUFFIX,timecamp.com
 #AND,((SRC-IP-CIDR,10.0.1.0/24),(DST-PORT,53),(OR,(NETWORK,UDP),(NETWORK,TCP))),🚀 手动切换
 #AND,((SRC-IP-CIDR,192.168.255.0/24),(DST-PORT,53),(OR,(NETWORK,UDP),(NETWORK,TCP))),🚀 手动切换
-
-rules:
-    - AND,((SRC-IP-CIDR,10.0.1.0/24),(DST-PORT,53),(OR,(NETWORK,UDP),(NETWORK,TCP)))
