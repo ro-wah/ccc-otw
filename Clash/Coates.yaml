@@ -1,4 +1,4 @@
 # Customer rules
 
-payload:
-  - AND,((DST-PORT,53),(OR,(NETWORK,UDP),(NETWORK,TCP)),(OR,(SRC-IP-CIDR,192.168.255.0/24),(SRC-IP-CIDR,10.0.1.0/24)))
+Rule:
+  - AND,((DST-PORT,53),(OR,(NETWORK,UDP),(NETWORK,TCP)),(OR,(SRC-IP-CIDR,192.168.255.0/24),(SRC-IP-CIDR,10.0.1.0/24))),🚀 手动切换
