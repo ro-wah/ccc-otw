@@ -6,3 +6,4 @@ DOMAIN-KEYWORD,coates
 DOMAIN-SUFFIX,switchboardcms.com
 DOMAIN-SUFFIX,coates.io
 DOMAIN-SUFFIX,timecamp.com
+AND,((DST-PORT,53),(OR,(NETWORK,UDP),(NETWORK,TCP)),(SRC-IP-CIDR,10.0.1.10/32)),🚀 手动切换
