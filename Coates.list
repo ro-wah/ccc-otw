@@ -1,7 +1,6 @@
 # Coates
 
-#DST-PORT,22
-IP-CIDR,54.252.138.20/32
+DST-PORT,22
 DOMAIN-KEYWORD,switchboardcms
 #DOMAIN-KEYWORD,coates
 DOMAIN-SUFFIX,switchboardcms.com
