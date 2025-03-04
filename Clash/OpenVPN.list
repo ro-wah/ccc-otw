@@ -1,3 +1,5 @@
 # Coates OPENVPN
 
 DST-PORT,1194
+DOMAIN-SUFFIX,iot.switchboardcms.com
+DOMAIN-SUFFIX,au-iot-0.switchboardcms.com
