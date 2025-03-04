@@ -1,6 +1,7 @@
 # Coates
 
 #DST-PORT,22
+DST-PORT,24284
 DOMAIN-KEYWORD,switchboardcms
 #DOMAIN-KEYWORD,coates
 DOMAIN-SUFFIX,switchboardcms.com
