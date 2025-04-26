@@ -11,4 +11,4 @@ DOMAIN-SUFFIX,timecamp.com
 DOMAIN-SUFFIX,hibob.com
 DOMAIN-SUFFIX,vultr.com
 IP-ASN,13335,no-resolve
-DOMAIN-REGEX,.*switchboardcms.*\.s3.*\.amazonaws.com
+#DOMAIN-REGEX,.*switchboardcms.*\.s3.*\.amazonaws.com
